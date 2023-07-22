@@ -9,7 +9,7 @@ echo hello world
 #Cyan     36
 
 
-echo -e e[31mHello word\e[om"
+echo -e "e[31mHello word\e[om"
 echo -e "e[32mHello word\e[om"
 echo -e "e[33mHello word\e[om"
 echo -e "e[34mHello word\e[om"
